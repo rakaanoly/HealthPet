@@ -1,0 +1,2 @@
+# HealthPet
+Perancangan aplikasi HEALTHPET berbasis web merupakan kepedulian terhadap akan fasilitas kesehatan khusu untuk hewan peliharaan yang sampai saat ini belum terpenuhi secara maksimal.Maraknya masyarakat saat ini mulai mengikuti trend memelihara hewan ras seperti anjing dan kucing perlu mendapatkan perhatian lebih khususnya terkait fasilitas penunjang saat memelihata yaitu untuk urusan pangan, kesehatan, serta fasilitas tempat tinggal yang leseluruhannya akan terpenuhi dalam satu platform yaitu pada HEALTHPET ini.
